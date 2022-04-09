@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Presentacion 
-excerpt: ""
+excerpt: "Hola Soy Luis Leon tengo 27 años, soy desarrollador experto en tecnologias .net."
 date: 2022-04-09
 classes: wide
 header:
